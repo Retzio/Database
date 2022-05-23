@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="MapleEstateInvestments">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=.;Initial Catalog=MapleEstInvest</ConnectString>
+    <IntegratedSecurity>true</IntegratedSecurity>
+    <Prompt>Specify a user name and password for data source MapleEstateInvestments</Prompt>
+  </ConnectionProperties>
+  <DataSourceID>1fbfe9d6-7972-4aa2-a2e6-670fbe234f5a</DataSourceID>
+</RptDataSource>

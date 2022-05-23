@@ -1,0 +1,431 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MapleEstateInvestmentsForm
+</name>
+</assembly>
+<members>
+<member name="T:MapleEstateInvestmentsForm.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:MapleEstateInvestmentsForm.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:MapleEstateInvestmentsForm.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.BROKERDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.FUNDING_METHODDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.INVESTORDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.LICENSE_STATUSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.LISTINGDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.LOAN_TYPEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.PORTFOLIO_PROPERTYDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.PROPERTYDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.PROPERTY_HISTORYDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.PROPERTY_TYPEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.RISK_LEVELDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.SALES_STATUSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.TRANSACTIONDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.TRANSACTION_TYPEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.InvestorPortfolioDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.Distinct_CityDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.InvestorFullNameDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.BrokerFullNameDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.BROKERRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.FUNDING_METHODRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.INVESTORRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.LICENSE_STATUSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.LISTINGRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.LOAN_TYPERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.PORTFOLIO_PROPERTYRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.PROPERTYRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.PROPERTY_HISTORYRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.PROPERTY_TYPERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.RISK_LEVELRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.SALES_STATUSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.TRANSACTIONRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.TRANSACTION_TYPERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.InvestorPortfolioRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.Distinct_CityRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.InvestorFullNameRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.BrokerFullNameRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.BROKERRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.FUNDING_METHODRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.INVESTORRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.LICENSE_STATUSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.LISTINGRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.LOAN_TYPERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.PORTFOLIO_PROPERTYRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.PROPERTYRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.PROPERTY_HISTORYRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.PROPERTY_TYPERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.RISK_LEVELRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.SALES_STATUSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.TRANSACTIONRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.TRANSACTION_TYPERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.InvestorPortfolioRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.Distinct_CityRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.InvestorFullNameRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSet.BrokerFullNameRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSetTableAdapters.BROKERTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSetTableAdapters.FUNDING_METHODTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSetTableAdapters.INVESTORTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSetTableAdapters.LICENSE_STATUSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSetTableAdapters.LISTINGTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSetTableAdapters.LOAN_TYPETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSetTableAdapters.PORTFOLIO_PROPERTYTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSetTableAdapters.PROPERTYTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSetTableAdapters.PROPERTY_HISTORYTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSetTableAdapters.PROPERTY_TYPETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSetTableAdapters.RISK_LEVELTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSetTableAdapters.SALES_STATUSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSetTableAdapters.TRANSACTIONTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSetTableAdapters.TRANSACTION_TYPETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSetTableAdapters.InvestorPortfolioTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSetTableAdapters.Distinct_CityTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSetTableAdapters.InvestorFullNameTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSetTableAdapters.BrokerFullNameTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:MapleEstateInvestmentsForm.MapleEstInvestDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(MapleEstateInvestmentsForm.MapleEstInvestDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:MapleEstateInvestmentsForm.MapleEstInvestDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(MapleEstateInvestmentsForm.MapleEstInvestDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:MapleEstateInvestmentsForm.MapleEstInvestDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(MapleEstateInvestmentsForm.MapleEstInvestDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:MapleEstateInvestmentsForm.MapleEstInvestDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:MapleEstateInvestmentsForm.MapleEstInvestDataSetTableAdapters.TableAdapterManager.UpdateAll(MapleEstateInvestmentsForm.MapleEstInvestDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:MapleEstateInvestmentsForm.MapleEstInvestDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
