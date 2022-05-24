@@ -25,7 +25,7 @@ For a dashboard created to view important metrics for the brokers and management
 # Microsoft Visual Studios Reports and Forms
 See [VS_Forms_Reports_MapleEstateInvestments](https://github.com/Retzio/MapleEstateInvestments_Database/tree/main/VS_Forms_Reports_MapleEstateInvestments) for sulutions files to the Microsoft Visual Studios Forms and Reports. 
 
-See the file READMe for further detail on the purpose and use cases for each form and report, and see the video below for a walkthrough of them all.
+See the file's READMe for further detail on the purpose and use cases for each form and report, and see the video below for a walkthrough of them all.
 
 ---
 
