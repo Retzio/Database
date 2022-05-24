@@ -1,4 +1,4 @@
-# Maple Estates Investments OLAP PowerBI Dashboard
+### Maple Estates Investments OLAP PowerBI Dashboard
 
 This dashboard was created for management and brokers to moniter and track inprortant metrics in the office. This was built with mockdata and used for education purposes. 
 
