@@ -11,12 +11,19 @@ for build script, see [BuildMapleEstateInvestments.sql](https://github.com/Retzi
 The [VS_Forms_Reports_MapleEstateInvestments](https://github.com/Retzio/MapleEstateInvestments_Database/tree/main/VS_Forms_Reports_MapleEstateInvestments)
 builds usefull SPROC, UDF, and View for the database. See file READMe for more details and specific use cases.
 
+# Power BI Dashboard
+For a dashboard created to view important metrics for the brokers and management to view, see [PowerBI_Dashboard_MapleEstateInvestments](https://github.com/Retzio/MapleEstateInvestments_Database/tree/main/PowerBI_Dashboard_MapleEstateInvestments)
+
+# Microsoft Visual Studios Reports and Forms
+See [VS_Forms_Reports_MapleEstateInvestments](https://github.com/Retzio/MapleEstateInvestments_Database/tree/main/VS_Forms_Reports_MapleEstateInvestments) for sulutions files to the Microsoft Visual Studios Forms and Reports. 
+
+See the file READMe for further detail on the purpose and use cases for each form and report, and see the video below for a walkthrough of them all.
+
 # ERD Diagram of OLTP Database
 ![ERD_MapleEstInv](https://user-images.githubusercontent.com/105741175/169903508-ba2700a8-b0e0-4bf4-8fd6-782307879864.PNG)
 
-# Walkthrough of Microsoft Visual Studios Reports and Forms
-See [VS_Forms_Reports_MapleEstateInvestments](https://github.com/Retzio/MapleEstateInvestments_Database/tree/main/VS_Forms_Reports_MapleEstateInvestments) for sulutions files to the Microsoft Visual Studios Forms and Reports. 
 
-See the file READMe for further detail on the purpose and use cases for each form and report
+# Walkthrough of Microsoft Visual Studios Reports and Forms
+
 https://user-images.githubusercontent.com/105741175/169918144-5dc6b2c2-7064-4a1d-b035-74f0d76e9e69.mp4
 
